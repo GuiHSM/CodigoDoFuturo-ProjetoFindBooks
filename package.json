@@ -1,0 +1,20 @@
+{
+  "name": "codigodofuturo-projetofindbooks",
+  "version": "1.0.0",
+  "description": "Projeto que desenvolvi durante o curso do código do futuro, ele tem a funcionalidade de a partir de um JSON de livros mostrar os específicados",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GuiHSM/CodigoDoFuturo-ProjetoFindBooks.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GuiHSM/CodigoDoFuturo-ProjetoFindBooks/issues"
+  },
+  "homepage": "https://github.com/GuiHSM/CodigoDoFuturo-ProjetoFindBooks#readme"
+}
